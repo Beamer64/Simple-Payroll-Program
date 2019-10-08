@@ -70,7 +70,8 @@ public class PayrollSystem {
         
         System.out.println("Enter Employee Name: ");
         String name = TextIO.getln();
-        
+    
+        //corrects grammatic ownership syntax
         String grammar = "'s";
         if (name.endsWith("s")) {
             grammar = "'";
