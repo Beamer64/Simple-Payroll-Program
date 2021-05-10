@@ -1,4 +1,4 @@
-# Simple-Payroll-Program
+# Simple-Payroll-Program (For Class Purposes)
 
 
 ## Project Description
